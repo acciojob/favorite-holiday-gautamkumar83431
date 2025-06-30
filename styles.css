@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+   body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        p {
+            max-width: 600px;
+        }
+        ol, ul {
+            max-width: 600px;
+        }
